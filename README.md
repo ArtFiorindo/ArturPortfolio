@@ -9,7 +9,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará alguns dos proje
 Um sistema para gerenciamento de livros e reservas. Este projeto inclui funcionalidades para adicionar, remover e gerenciar livros em uma biblioteca, bem como realizar reservas.
 
 - **Tecnologias Utilizadas**: Java, Spring Boot, SQL
-- **Repositório GitHub**: [Sistema de Biblioteca](https://github.com/seu-username/sistema-de-biblioteca)
+- **Repositório GitHub**: [Sistema de Biblioteca]([https://github.com/seu-username/sistema-de-biblioteca](https://github.com/ArtFiorindo/ApiSistemaBiblioteca))
 
 ![Sistema de Biblioteca](https://via.placeholder.com/300x300?text=Sistema+de+Biblioteca)
 
